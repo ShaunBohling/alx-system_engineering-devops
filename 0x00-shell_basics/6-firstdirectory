@@ -1,1 +1,2 @@
-mkdir
+#!/bin/bash
+mkdir /tmp/y_first_directory
