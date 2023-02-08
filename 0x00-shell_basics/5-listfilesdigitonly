@@ -1,1 +1,2 @@
-ls -1v
+#!/bin/bash
+ls -lna
